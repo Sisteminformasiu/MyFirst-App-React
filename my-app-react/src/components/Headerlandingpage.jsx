@@ -38,7 +38,7 @@ function HeaderPage(randomNumber) {
         <div>
           <img
             className=""
-            src="https://lucent-douhua-349595.netlify.app/images/hero-img.png.png"
+            src="https://zifakest.netlify.app/images/hero-img.png.png"
             alt=""
             width={536}
             height={427}
